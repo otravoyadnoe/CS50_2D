@@ -1,6 +1,6 @@
 This is a public repo for my CS50 2D project submissions.
 
-So far I've done:
+So far I've done (at the time of initial commit):
 
 0. Pong
 1. Flappy Bird
